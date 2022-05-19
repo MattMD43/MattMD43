@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in CSS
+- 👀 I’m interested in CSS nad its frameworks, JS
 - 📫You can also contact me on https://www.linkedin.com/in/martin-hrube%C5%A1-491468159/
